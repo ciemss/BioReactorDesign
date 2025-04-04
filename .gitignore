@@ -136,3 +136,6 @@ dmypy.json
 *.stl
 
 *.swp
+
+#Ignore OFsolvers directory
+OFsolvers/
