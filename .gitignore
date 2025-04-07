@@ -136,3 +136,8 @@ dmypy.json
 *.stl
 
 *.swp
+
+# Ignore temp directories
+Logtmp/
+Modeltmp/
+OFsolvers/
