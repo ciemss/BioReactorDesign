@@ -137,5 +137,7 @@ dmypy.json
 
 *.swp
 
-#Ignore OFsolvers directory
+# Ignore temp directories
+Logtmp/
+Modeltmp/
 OFsolvers/
